@@ -1,0 +1,5 @@
+﻿  Lab 2 - Problem 2.cpp
+c:\users\sn0104601\source\repos\iman nurhakim lab 2 - 1\iman nurhakim lab 2 - 1\lab 2 - problem 2.cpp(5): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  LINK : c:\users\sn0104601\source\repos\Iman Nurhakim Lab 2 - 1\Debug\Iman Nurhakim Lab 2.exe not found or not built by the last incremental link; performing full link
+Lab 2 - Problem 2.obj : error LNK2005: _main already defined in Lab 2 - Problem 1.obj
+c:\users\sn0104601\source\repos\Iman Nurhakim Lab 2 - 1\Debug\Iman Nurhakim Lab 2.exe : fatal error LNK1169: one or more multiply defined symbols found
